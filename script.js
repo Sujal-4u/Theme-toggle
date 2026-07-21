@@ -1,8 +1,8 @@
 let btn = document.querySelector("button");
 let body = document.querySelector("body");
-let theme = window.matchMedia('(prefers-color-scheme: dark)');
+let themes = window.matchMedia('(prefers-color-scheme: dark)');
 function setDarkOrLight(){
-  if (theme.matches){
+  if (themes.matches){
     body.classList.remove("dark");
     body.classList.add("light");
   } else {
