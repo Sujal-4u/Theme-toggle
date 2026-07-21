@@ -18,3 +18,15 @@ body.dark{
   color: #fefefefe;
   background-color: #222;
 }
+.container{
+  background-color: red;
+  width: 400px;
+  height: 500px;
+  border: 1px solid #eeee;
+  padding: 35px;
+}
+h1{
+  font-weight: bolder;
+  margin-block: 14px;
+  font-family: Times New Roman;
+}
