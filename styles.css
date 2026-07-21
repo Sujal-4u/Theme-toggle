@@ -10,3 +10,11 @@ body{
   justify-content: center;
   align-items: center;
 }
+body.light{
+  color: #222;
+  background-color: #fefefefe;
+}
+body.dark{
+  color: #fefefefe;
+  background-color: #222;
+}
