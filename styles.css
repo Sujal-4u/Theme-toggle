@@ -23,7 +23,6 @@ body.dark{
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: red;
   width: 400px;
   height: 500px;
   border: 1px solid #eeee;
