@@ -6,7 +6,7 @@
 body{
   height: 100%;
   width: 100%;
-  ddisplay: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -29,4 +29,7 @@ h1{
   font-weight: bolder;
   margin-block: 14px;
   font-family: Times New Roman;
+}
+button{
+  align-items: center;
 }
